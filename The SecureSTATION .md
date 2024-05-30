@@ -1,4 +1,4 @@
-# The SecureSTATION camera changes the accounts and passwords of administrators and users without authorization
+# The SecureSTATION has a vulnerability in unauthorized modification of user credentials
 
 ## Vulnerability Details
 
